@@ -13,8 +13,8 @@ cyan='\e[96m'   #စိမ်းပြာရောင်
 none='\e[0m'    #အရောင်မရှိ
 
 #Username နှင့် Password ပြောင်းရန်
-username="404"
-password="404"
+username="iam404"
+password="iam404"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
 sshlimiter="300"
@@ -30,7 +30,7 @@ dias="2"
 servermessage="<h3><font color='red'>
 ▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
 </font></h3>
-<h4><font color='cyan'><style='text-align:center'>
+<h4><font color='cyan'>
 ↤↤↤↤↤ GCP SERVER BY ④ ⍤⃝✿④ ↦↦↦↦↦
 </font></h4>
 <h3><font color='red'>
