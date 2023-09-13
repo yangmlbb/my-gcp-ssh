@@ -13,8 +13,8 @@ cyan='\e[96m'   #စိမ်းပြာရောင်
 none='\e[0m'    #အရောင်မရှိ
 
 #Username နှင့် Password ပြောင်းရန်
-username="nkka"
-password="nkka"
+username="obcl"
+password="obcl"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
 sshlimiter="300"
@@ -28,15 +28,15 @@ dias="2"
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
 servermessage="<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
-</font></h3>
-<h4><font color='cyan'><style='text-align:center'>
-↤↤↤↤↤ GCP SERVER BY ④ ⍤⃝✿④ ↦↦↦↦↦
+💘▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬💘
+</font></h4>
+<h4><font color='cyan'><style='i love you more than i can say'>
+↤↤↤↤↤ GCP SERVER BY obcl ↦↦↦↦↦
 </font></h4>
 <h3><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
-</font></h3>"
-#End
+💘▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬💘
+</font></h4>"
+#အဆင်ပြေပါစေ။
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
 [[ $EUID -ne 0 ]] && echo -e "${red}Error: ${plain} You must use root user to run this script!\n" && exit 1
 
