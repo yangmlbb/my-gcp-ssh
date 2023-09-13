@@ -19,7 +19,7 @@ password="nkka"
 #SSH USER LIMIT သတ်မှတ်ရန်
 sshlimiter="300"
 
-#ရက်ကန့်သက်ရန်
+#ရက်ကန့်သက်ရန်(Qwiklab အတွက်မို့ 2Day ထားထားရပါသည်)
 dias="2"
 
 #💠 Server Message ပြင်ရန်💠
