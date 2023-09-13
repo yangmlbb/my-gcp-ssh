@@ -13,13 +13,13 @@ cyan='\e[96m'   #စိမ်းပြာရောင်
 none='\e[0m'    #အရောင်မရှိ
 
 #Username နှင့် Password ပြောင်းရန်
-username="nkka"
-password="nkka"
+username="404"
+password="404"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
 sshlimiter="300"
 
-#ရက်ကန့်သက်ရန်(Qwiklab အတွက်မို့ 2-DAY ထားထားရပါသည်)
+#ရက်ကန့်သက်ရန်(Qwiklab အတွက်မို့ 2-DAY ပုံသေထားရပါသည်)
 dias="2"
 
 #💠 Server Message ပြင်ရန်💠
@@ -50,6 +50,11 @@ echo "$password" >/etc/$username
 echo "$username:$password" | chpasswd
 echo "$username $sshlimiter" >>/root/usuarios.db
 IP=$(wget -qO- ipv4.icanhazip.com)
+echo ""
+echo -e "\033[1;32m===================================="
+echo -e "\033[1;32m   🌺ㅤONLY/:FORYOU&ALLㅤ🌺  " 
+echo -e "\033[1;32m===================================="
+echo ""
 echo -e "\033[1;37m◈─────⪧ SSH ACCOUNT ⪦─────◈"
 echo ""
 echo -e "\033[1;32m◈ Host / IP   :⪧  \033[1;31m$IP"
