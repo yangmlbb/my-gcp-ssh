@@ -30,8 +30,8 @@ dias="2"
 servermessage="<h3><font color='red'>
 ♾ 𝐎𝐍𝐈𝐌𝐔𝐒𝐇𝐀 ♾
 </font></h3>
-<h4><font color='yellow'>
-ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ:<h4><font color='none'>https://t.me/onimushatech
+<h4><font color='green'>
+ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀɴɴᴇʟ:https://t.me/onimushatech
 </font></h3>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
