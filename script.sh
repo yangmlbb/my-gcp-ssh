@@ -13,11 +13,11 @@ cyan='\e[96m'   #စိမ်းပြာရောင်
 none='\e[0m'    #အရောင်မရှိ
 
 #Username နှင့် Password ပြောင်းရန်
-username="nkka"
-password="nkka"
+username="pppp"
+password="pppp"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
-sshlimiter="300"
+sshlimiter="700"
 
 #ရက်ကန့်သက်ရန်(Qwiklab အတွက်မို့ 2-DAY ထားထားရပါသည်)
 dias="2"
@@ -28,13 +28,7 @@ dias="2"
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
 servermessage="<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
-</font></h3>
-<h4><font color='cyan'><style='text-align:center'>
-↤↤↤↤↤ GCP SERVER BY ④ ⍤⃝✿④ ↦↦↦↦↦
-</font></h4>
-<h3><font color='red'>
-▬▬▬▬▬▬▬▬✿4▪0▪4✿▬▬▬▬▬▬▬▬
+♾ 𝐎𝐍𝐈𝐌𝐔𝐒𝐇𝐀 ♾
 </font></h3>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
